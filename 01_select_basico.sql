@@ -1,8 +1,8 @@
--- Ejercicio 01: SELECT y operaciones aritméticas
--- Objetivo: Calcular el importe de una venta
+-- Exercise 01: SELECT and Arithmetic Operations
+-- Objective: Calculate the total amount of a sale
 
 SELECT
-    'Café' AS producto,
-    3 AS unidades,
-    55.00 AS precio_unitario,
-    3 * 55.00 AS importe_total;
+    'Café' AS product,
+    3 AS units,
+    55.00 AS unit_price,
+    3 * 55.00 AS total_price;
